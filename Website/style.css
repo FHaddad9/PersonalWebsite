@@ -18,3 +18,20 @@ img {
 .right {
   padding-bottom: 11em;
 }
+
+th {
+  padding: 5px;
+  padding-right: 70px;
+  padding-left: 70px;
+  border: 2px solid white;
+}
+
+table {
+  background-color: black;
+}
+
+
+a {
+  color: whitesmoke;
+  font-size: 20px;
+}
