@@ -1,0 +1,20 @@
+img {
+  height: auto;
+  width: 400px;/*
+  float: left;
+  margin-right: 20px;*/
+}
+
+.centre {
+  text-align: center;
+}
+
+.left-content {
+  float: left;
+  margin-right: 100px;
+  padding-bottom: 1em;
+}
+
+.right {
+  padding-bottom: 11em;
+}
